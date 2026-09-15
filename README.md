@@ -1,4 +1,4 @@
-# Al Día — Política de Privacidad
+# Al Día · Política de Privacidad
 
 Página de la política de privacidad de la app **Al Día** (calculadora y finanzas para Colombia), publicada vía GitHub Pages para cumplir el requisito de Google Play.
 
